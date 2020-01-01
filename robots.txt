@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://lisieciesh.0x7f.com.cn/sitemap.xml
